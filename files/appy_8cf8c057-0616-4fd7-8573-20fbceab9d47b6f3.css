@@ -1,0 +1,28 @@
+.clearfix {
+  clear: both;
+}
+
+#regenerate_otp {
+  color: #000;
+  padding-top: 3px;
+  margin-left: 7px;
+  text-decoration: underline;
+}
+
+p.field__message.field__message--success.otp_success {
+  padding-left: 8px;
+  color: #009688;
+  font-weight: 600;
+}
+
+.cod-otp-wrapper {
+  display: block;
+  float: left;
+  width: 100%;
+  clear: both;
+}
+
+.step__footer__continue-btn[disabled] {
+  opacity: 0.5;
+} 
+.sidebar .product__description__property {opacity: 0;font-size: 0;}
